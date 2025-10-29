@@ -3,3 +3,4 @@ python-dotenv
 requests
 mysql-connector-python
 google-generativeai
+PyPDF2

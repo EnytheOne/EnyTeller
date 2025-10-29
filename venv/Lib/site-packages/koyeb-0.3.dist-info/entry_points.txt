@@ -1,0 +1,2 @@
+[console_scripts]
+koyeb = DA_Koyeb.__main__:main

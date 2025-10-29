@@ -1,0 +1,316 @@
+2025-10-29 04:23:58,343 - INFO - Starting Flask app on port 5000
+2025-10-29 04:23:58,377 - WARNING -  * Debugger is active!
+2025-10-29 04:23:58,388 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 04:24:44,330 - INFO - Starting Flask app on port 5000
+2025-10-29 04:24:45,243 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.102:5000
+2025-10-29 04:24:45,286 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 04:24:45,305 - INFO -  * Restarting with stat
+2025-10-29 04:24:47,211 - INFO - Starting Flask app on port 5000
+2025-10-29 04:24:47,233 - WARNING -  * Debugger is active!
+2025-10-29 04:24:47,242 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 04:24:54,637 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:24:54,639 - WARNING - Embedding service unavailable, skipping semantic memory: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:24:56,852 - INFO - 127.0.0.1 - - [29/Oct/2025 04:24:56] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:40:43,386 - INFO -  * Detected change in 'c:\\wamp64\\www\\EnyTeller\\services\\embedding_service.py', reloading
+2025-10-29 04:40:45,640 - INFO -  * Restarting with stat
+2025-10-29 04:40:51,910 - INFO - Starting Flask app on port 5000
+2025-10-29 04:40:51,952 - WARNING -  * Debugger is active!
+2025-10-29 04:40:51,962 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 04:42:05,643 - INFO - Starting Flask app on port 5000
+2025-10-29 04:42:06,518 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.102:5000
+2025-10-29 04:42:06,519 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-29 04:42:06,521 - INFO -  * Restarting with stat
+2025-10-29 04:42:08,801 - INFO - Starting Flask app on port 5000
+2025-10-29 04:42:08,834 - WARNING -  * Debugger is active!
+2025-10-29 04:42:08,841 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 04:42:14,302 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:42:16,546 - INFO - 127.0.0.1 - - [29/Oct/2025 04:42:16] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:43:55,682 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:43:57,543 - INFO - 127.0.0.1 - - [29/Oct/2025 04:43:57] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:45:07,915 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:45:11,548 - INFO - 127.0.0.1 - - [29/Oct/2025 04:45:11] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:46:20,717 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:46:22,801 - INFO - 127.0.0.1 - - [29/Oct/2025 04:46:22] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:47:04,947 - INFO - 127.0.0.1 - - [29/Oct/2025 04:47:04] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:49:05,741 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:49:08,967 - INFO - 127.0.0.1 - - [29/Oct/2025 04:49:08] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:50:11,208 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:50:13,213 - INFO - 127.0.0.1 - - [29/Oct/2025 04:50:13] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:51:54,103 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:51:57,447 - INFO - 127.0.0.1 - - [29/Oct/2025 04:51:57] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:54:10,483 - WARNING - Embedding quota exceeded; backing off for 60 seconds: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0
+* Quota exceeded for metric: generativelanguage.googleapis.com/embed_content_free_tier_requests, limit: 0 [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+]
+2025-10-29 04:54:12,328 - INFO - Unanswered question stored for review: Do you know Mr. Nehemia Mwakilebwa
+2025-10-29 04:54:12,331 - INFO - 127.0.0.1 - - [29/Oct/2025 04:54:12] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 04:54:57,744 - INFO - Unanswered question stored for review: He is your CEO
+2025-10-29 04:54:57,746 - INFO - 127.0.0.1 - - [29/Oct/2025 04:54:57] "POST /api/ask HTTP/1.1" 200 -
+2025-10-29 05:07:18,869 - INFO -  * Detected change in 'c:\\wamp64\\www\\EnyTeller\\config.py', reloading
+2025-10-29 05:07:21,098 - INFO -  * Restarting with stat
+2025-10-29 05:07:23,588 - INFO - Starting Flask app on port 5000
+2025-10-29 05:07:23,619 - WARNING -  * Debugger is active!
+2025-10-29 05:07:23,625 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 05:08:06,501 - INFO -  * Detected change in 'c:\\wamp64\\www\\EnyTeller\\utils\\helpers.py', reloading
+2025-10-29 05:08:06,844 - INFO -  * Restarting with stat
+2025-10-29 05:08:11,113 - INFO - Starting Flask app on port 5000
+2025-10-29 05:08:11,152 - WARNING -  * Debugger is active!
+2025-10-29 05:08:11,160 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 05:08:28,618 - INFO -  * Detected change in 'c:\\wamp64\\www\\EnyTeller\\routes\\teller_routes.py', reloading
+2025-10-29 05:08:28,921 - INFO -  * Restarting with stat
+2025-10-29 05:08:31,813 - INFO - Starting Flask app on port 5000
+2025-10-29 05:08:31,845 - WARNING -  * Debugger is active!
+2025-10-29 05:08:31,853 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 05:08:45,942 - INFO -  * Detected change in 'c:\\wamp64\\www\\EnyTeller\\routes\\teller_routes.py', reloading
+2025-10-29 05:08:46,154 - INFO -  * Restarting with stat
+2025-10-29 05:08:48,361 - INFO - Starting Flask app on port 5000
+2025-10-29 05:08:48,386 - WARNING -  * Debugger is active!
+2025-10-29 05:08:48,393 - INFO -  * Debugger PIN: 293-062-121
+2025-10-29 05:09:13,469 - INFO -  * Detected change in 'c:\\wamp64\\www\\EnyTeller\\services\\gemma_service.py', reloading
+2025-10-29 05:09:13,706 - INFO -  * Restarting with stat
+2025-10-29 05:09:16,611 - INFO - Starting Flask app on port 5000
+2025-10-29 05:09:16,652 - WARNING -  * Debugger is active!
+2025-10-29 05:09:16,659 - INFO -  * Debugger PIN: 293-062-121

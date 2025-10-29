@@ -1,1 +1,1 @@
-web: pip install -r requirements.txt && gunicorn app:app
+web: bash -c "pip install --upgrade pip && pip install -r requirements.txt && gunicorn app:app"
